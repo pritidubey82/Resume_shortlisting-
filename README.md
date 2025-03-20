@@ -1,10 +1,10 @@
-#Resume Shortlisting Site
+# Resume Shortlisting Site
 
 Overview
 
 Our Resume Shortlisting Site helps users evaluate how well their resume matches a given job role. By analyzing the content of the resume and comparing it with the job description, the system provides a percentage score indicating the relevance of the resume for the role.
 
-#Features
+# Features
 
 Upload your resume (PDF/DOCX)
 
@@ -16,7 +16,7 @@ Insights on missing or relevant keywords
 
 User-friendly interface for easy interaction
 
-#Technologies Used
+# Technologies Used
 
 Python (Flask/Django for backend)
 
@@ -32,7 +32,7 @@ Frontend: React.js / HTML, CSS, JavaScript
 
 Database: PostgreSQL / MongoDB
 
-#Installation & Setup
+# Installation & Setup
 
 Clone the repository:
 
